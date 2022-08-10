@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: stop
+- text: return
+- text: pass
+- text: else
+- text: jump
+- text: continue
+- text: break
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6303#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 27 Jul 2022 21:10:03 UTC
+record: -1
+selected_options:
+- 2
+- 5
+- 6

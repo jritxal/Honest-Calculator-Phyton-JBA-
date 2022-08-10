@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    dictionary = ['all', 'an', 'and', 'as', 'closely', 'correct', 'equivocal',
+                  'examine', 'indication', 'is', 'means', 'minutely', 'or', 'scrutinize',
+                  'sign', 'the', 'to', 'uncertain']
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6551#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 01 Aug 2022 20:16:34 UTC
+record: -1
